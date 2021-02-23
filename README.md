@@ -1,6 +1,6 @@
 # Desafio wiser 
 
-## ![wiser2](src\assets\wiser2.PNG)
+## <img src ="https://github.com/xxjamisxx/desafio-wiser/blob/master/src/assets/wiser2.PNG"  height="300" width="300">
 
 Usuário para autenticação 
 
