@@ -1,6 +1,6 @@
 # Desafio wiser 
 
-## <img src ="https://github.com/xxjamisxx/desafio-wiser/blob/master/src/assets/wiser2.PNG"  height="300" width="800">
+## <img src ="https://github.com/xxjamisxx/desafio-wiser/blob/master/src/assets/wiser2.PNG"  height="350" width="800">
 
 Usuário para autenticação 
 
@@ -24,6 +24,17 @@ Para executar os testes
 
 Para executar os teste junto com relatorio do coverage  
 
+## Solução do desafio
+
+<a href="https://youtu.be/k1hHQmLq7ow" target="_blank" align="center">
+    Link
+</a>
+
+<br>
+
+<a href="https://www.linkedin.com/in/guilherme-ramos-dev/" target="_blank" align="center">
+    Linkedin
+</a>
 
 
 
